@@ -3,4 +3,4 @@
 [![Watch the video](https://github.com/yatinkode/Recommendation-System-using-UBCF-and-IBCF-for-Amazon-products/blob/master/images/image.png)](https://www.linkedin.com/feed/update/urn:li:activity:6525039834707390464)
 
 #### Project Structure
-![data](https://github.com/yatinkode/Recommendation-System-using-UBCF-and-IBCF-for-Amazon-products/blob/master/images/i1.png)
+![data](https://github.com/yatinkode/Recommendation-System-using-UBCF-and-IBCF-for-Amazon-products/blob/master/images/i1.JPG)
