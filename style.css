@@ -1,0 +1,15 @@
+body {
+  font-family: "Open Sans", sans-serif;
+  line-height: 1.25;
+}
+
+.custom-bt{
+	padding: .11rem .5rem;
+    margin-left: 12px;
+	background-color: #343a40 !important;
+}
+
+.divsrch {
+  border: 2px solid #343a40;
+  padding: 15px;
+}
